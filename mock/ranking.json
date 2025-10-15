@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "El Milagro",
+    "points": 10000
+  },
+  {
+    "id": 2,
+    "name": "La Esperanza",
+    "points": 5000
+  },
+  {
+    "id": 3,
+    "name": "Florencia de Mora",
+    "points": 3000
+  },
+  {
+    "id": 4,
+    "name": "Victor Larco",
+    "points": 2000
+  },
+  {
+    "id": 5,
+    "name": "Trujillo",
+    "points": 1000
+  }
+]

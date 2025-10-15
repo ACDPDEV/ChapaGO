@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Enbotellado",
+    "description": "Recolecta 10 botellas de plástico y coloca en un recipiente de plástico.",
+    "progress": 5,
+    "total": 10,
+    "reward": "Compostera"
+  },
+  {
+    "id": 2,
+    "name": "Enbotellado",
+    "description": "Recolecta 10 botellas de plástico y coloca en un recipiente de plástico.",
+    "progress": 5,
+    "total": 10,
+    "reward": "Compostera"
+  },
+  {
+    "id": 3,
+    "name": "Enbotellado",
+    "description": "Recolecta 10 botellas de plástico y coloca en un recipiente de plástico.",
+    "progress": 0,
+    "total": 10,
+    "reward": "Compostera"
+  }
+]

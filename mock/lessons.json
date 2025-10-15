@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Aprende a reciclar",
+    "description": "Aprende a clasificar los objetos en los tachos de reciclaje",
+    "duration": 180,
+    "languages": ["Español"],
+    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "id": 2,
+    "name": "Diferencia entre reciclaje y reutilización",
+    "description": "Aprende a clasificar los objetos en reciclaje y reutilización",
+    "duration": 180,
+    "languages": ["Español", "Quechua"],
+    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "id": 3,
+    "name": "Aprende a reciclar",
+    "description": "Aprende a clasificar los objetos en los tachos de reciclaje",
+    "duration": 180,
+    "languages": ["Español"],
+    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "id": 4,
+    "name": "Diferencia entre reciclaje y reutilización",
+    "description": "Aprende a clasificar los objetos en reciclaje y reutilización",
+    "duration": 180,
+    "languages": ["Español", "Quechua"],
+    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  }
+]

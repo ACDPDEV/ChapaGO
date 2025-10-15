@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Punto de Acopio - La Esperanza",
+    "distance": 1.2,
+    "type": "Acopio",
+    "isOpen": true
+  },
+  {
+    "id": 2,
+    "name": "Reciclador - Don José",
+    "distance": 0.5,
+    "type": "Reciclador",
+    "isOpen": false
+  },
+  {
+    "id": 3,
+    "name": "Tacho Público - Parque Central",
+    "distance": 0.5,
+    "type": "Tacho",
+    "isOpen": true
+  },
+  {
+    "id": 4,
+    "name": "Punto de Acopio - El Progreso",
+    "distance": 2.0,
+    "type": "Acopio",
+    "isOpen": true
+  },
+  {
+    "id": 5,
+    "name": "Punto de Acopio - La Esperanza",
+    "distance": 1.2,
+    "type": "Acopio",
+    "isOpen": false
+  },
+  {
+    "id": 6,
+    "name": "Reciclador - Don José",
+    "distance": 0.5,
+    "type": "Reciclador",
+    "isOpen": false
+  },
+  {
+    "id": 7,
+    "name": "Tacho Público - Parque Central",
+    "distance": 0.5,
+    "type": "Tacho",
+    "isOpen": false
+  },
+  {
+    "id": 8,
+    "name": "Punto de Acopio - El Progreso",
+    "distance": 2.0,
+    "type": "Acopio",
+    "isOpen": true
+  }
+]
